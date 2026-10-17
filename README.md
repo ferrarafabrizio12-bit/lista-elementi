@@ -3,6 +3,10 @@
 
 Una semplice applicazione web sviluppata con React e Vite per gestire una lista di elementi, con descrizioni, completamento e filtri.
 
+## Anteprima
+
+![Anteprima di Lista Elementi](./screenshots/lista-elementi.png)
+
 ## Funzionalità
 
 - Aggiunta di elementi con testo e descrizione.
