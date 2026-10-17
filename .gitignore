@@ -1,0 +1,19 @@
+# Dipendenze
+node_modules/
+
+# File generati dalla build
+dist/
+dist-ssr/
+
+# File locali e configurazioni personali
+*.local
+.env
+.env.*
+
+# File di sistema macOS
+.DS_Store
+
+# Log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
